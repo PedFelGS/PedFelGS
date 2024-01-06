@@ -1,3 +1,6 @@
 [submodule "Course_FAP-Back-END_Softex"]
 	path = Course_FAP-Back-END_Softex
 	url = git@github.com:PedFelGS/Course_FAP-Back-END_Softex.git
+[submodule "EmpJR_Front-END_InovaTech"]
+	path = EmpJR_Front-END_InovaTech
+	url = https://github.com/PedFelGS/EmpJR_Front-END_InovaTech
